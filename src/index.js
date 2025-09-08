@@ -9,7 +9,7 @@ root.render(
     domain="dev-mau13m16sibzmgxq.us.auth0.com"
     clientId="Yf3nr3OTVTLvWHJg6Jlfy7SS5ynDXmDc"
     authorizationParams={{
-      redirect_uri: "http://localhost:3000"
+      redirect_uri: "https://react-sso-demo.netlify.app"
     }}
   >
     <App />
